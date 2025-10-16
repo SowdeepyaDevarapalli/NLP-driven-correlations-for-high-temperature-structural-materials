@@ -133,22 +133,4 @@ Main configuration files:
 - `configs/train_config.conf`: Training hyperparameters
 - `configs/types.conf`: Entity/relation type definitions
 
-## 📄 Citation
-
-If you use this code, please cite the original SPERT paper:
-```
-@inproceedings{eberts-ulges-2020-span,
-    title = "Span-based Joint Entity and Relation Extraction with Transformer Pre-training",
-    author = "Eberts, Markus and Ulges, Adrian",
-    booktitle = "Proceedings of the 24th European Conference on Artificial Intelligence",
-    year = "2020"
-}
-```
-
-## 📧 Contact
-
-For questions about this implementation or the materials science application, please open an issue in this repository.
-
----
-
 **Note**: This is the production-ready codebase containing only essential files for training and inference. All experimental analysis files have been excluded for clarity.
