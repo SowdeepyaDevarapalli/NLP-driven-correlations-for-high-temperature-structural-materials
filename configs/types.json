@@ -1,0 +1,33 @@
+{
+  "entities": {
+    "MATERIAL": {"short": "MAT", "verbose": "MATERIAL"},
+    "PROPERTY": {"short": "PROP", "verbose": "PROPERTY"},
+    "VALUE": {"short": "VAL", "verbose": "VALUE"},
+    "UNIT": {"short": "UNIT", "verbose": "UNIT"},
+    "PROCESS": {"short": "PROC", "verbose": "PROCESS"},
+    "STRUCTURE": {"short": "STRUC", "verbose": "STRUCTURE"},
+    "PHASE": {"short": "PHASE", "verbose": "PHASE"},
+    "CONDITION": {"short": "COND", "verbose": "CONDITION"},
+    "DIRECTION": {"short": "DIR", "verbose": "DIRECTION"},
+    "MECHANISM": {"short": "MECH", "verbose": "MECHANISM"},
+    "PROCESSING_STATE": {"short": "PROC_STATE", "verbose": "PROCESSING_STATE"}
+  },
+  "relations": {
+    "HAS_PROPERTY": {"short": "has_prop", "verbose": "HAS_PROPERTY", "symmetric": false},
+    "HAS_UNIT": {"short": "has_unit", "verbose": "HAS_UNIT", "symmetric": false},
+    "HAS_VALUE": {"short": "has_val", "verbose": "HAS_VALUE", "symmetric": false},
+    "OBSERVED_AT": {"short": "obs_at", "verbose": "OBSERVED_AT", "symmetric": false},
+    "HAS_STRUCTURE": {"short": "has_struc", "verbose": "HAS_STRUCTURE", "symmetric": false},
+    "SYNTHESIZED_USING_PROCESS": {"short": "synth_proc", "verbose": "SYNTHESIZED_USING_PROCESS", "symmetric": false},
+    "DECOMPOSES_INTO": {"short": "decomp", "verbose": "DECOMPOSES_INTO", "symmetric": false},
+    "FOUND_USING_PROCESS": {"short": "found_proc", "verbose": "FOUND_USING_PROCESS", "symmetric": false},
+    "PHASE_TRANSITION_TO": {"short": "phase_to", "verbose": "PHASE_TRANSITION_TO", "symmetric": false},
+    "ALONG_DIRECTION": {"short": "along_dir", "verbose": "ALONG_DIRECTION", "symmetric": false},
+    "HAS_PHASE": {"short": "has_phase", "verbose": "HAS_PHASE", "symmetric": false},
+    "PHASE_TRANSFORMATION_FROM": {"short": "trans_from", "verbose": "PHASE_TRANSFORMATION_FROM", "symmetric": false},
+    "PHASE_TRANSFORMATION_TO": {"short": "trans_to", "verbose": "PHASE_TRANSFORMATION_TO", "symmetric": false},
+    "PHASE_TRANSITION_FROM": {"short": "phase_from", "verbose": "PHASE_TRANSITION_FROM", "symmetric": false},
+    "TESTED_USING_PROCESS": {"short": "test_proc", "verbose": "TESTED_USING_PROCESS", "symmetric": false},
+    "HAS_MECHANISM": {"short": "has_mech", "verbose": "HAS_MECHANISM", "symmetric": false}
+  }
+}

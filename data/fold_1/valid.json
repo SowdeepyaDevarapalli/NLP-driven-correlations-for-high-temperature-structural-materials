@@ -1,0 +1,1496 @@
+[
+  {
+    "tokens": [
+      "This",
+      "paper",
+      "is",
+      "devoted",
+      "to",
+      "experimental",
+      "characterisation",
+      "of",
+      "linear",
+      "thermal",
+      "expansion",
+      "coefficient",
+      "(LTEC)",
+      "and",
+      "mechanical",
+      "characteristics",
+      "of",
+      "the",
+      "laser",
+      "deposited",
+      "Cu-Fe",
+      "system",
+      "multilayer",
+      "functionally",
+      "graded",
+      "(FG)",
+      "structures",
+      "and",
+      "binary",
+      "Cu-Fe",
+      "alloys,",
+      "fabricated",
+      "from",
+      "the",
+      "tin,",
+      "aluminium,",
+      "and",
+      "chromium",
+      "bronze",
+      "with",
+      "89-99",
+      "wt.%",
+      "of",
+      "copper",
+      "and",
+      "stainless",
+      "steel",
+      "(SS)",
+      "AISI",
+      "316L",
+      "with",
+      "1:1",
+      "and",
+      "3:1",
+      "bronze-to-steel",
+      "ratio.",
+      "The",
+      "best",
+      "tensile",
+      "mechanical",
+      "strength",
+      "of",
+      "as-built",
+      "parts",
+      "is",
+      "demonstrated",
+      "by",
+      "the",
+      "aluminium",
+      "bronze-stainless",
+      "steel",
+      "1:1",
+      "alloy",
+      "and",
+      "reaches",
+      "876.4",
+      "MPa",
+      "along",
+      "with",
+      "low",
+      "elasticity",
+      "modulus",
+      "(11.2",
+      "GPa)",
+      "and",
+      "1.684",
+      "1/K",
+      "LTEC.",
+      "Contrarily,",
+      "the",
+      "worst",
+      "values",
+      "of",
+      "the",
+      "mechanical",
+      "characteristics",
+      "are",
+      "exhibited",
+      "by",
+      "parts",
+      "created",
+      "from",
+      "the",
+      "chromium",
+      "bronze",
+      "and",
+      "SS,",
+      "which",
+      "failed",
+      "at",
+      "294.0-463.3",
+      "MPa",
+      "ultimate",
+      "stress,",
+      "showed",
+      "the",
+      "highest",
+      "elasticity",
+      "modulus",
+      "(up",
+      "to",
+      "42.4",
+      "GPa)",
+      "and",
+      "comparatively",
+      "high",
+      "average",
+      "LTEC",
+      "(up",
+      "to",
+      "1.878",
+      "1/K).",
+      "The",
+      "aluminium",
+      "bronze-stainless",
+      "steel",
+      "binary",
+      "and",
+      "FG",
+      "alloys",
+      "are",
+      "discussed",
+      "in",
+      "the",
+      "light",
+      "of",
+      "prospective",
+      "application",
+      "as",
+      "the",
+      "part",
+      "of",
+      "gradient",
+      "materials,",
+      "created",
+      "by",
+      "additive",
+      "manufacturing",
+      "(AM)",
+      "technologies",
+      "via",
+      "the",
+      "gradient",
+      "path",
+      "method",
+      "and",
+      "the",
+      "alternating",
+      "layers",
+      "technique,",
+      "with",
+      "expected",
+      "possibility",
+      "of",
+      "application",
+      "in",
+      "aerospace,",
+      "nuclear,",
+      "and",
+      "electronic",
+      "industry",
+      "due",
+      "to",
+      "advantageous",
+      "combination",
+      "of",
+      "the",
+      "antifrictionality,",
+      "heat",
+      "conductivity,",
+      "and",
+      "oxidation",
+      "resistance",
+      "of",
+      "the",
+      "bronze,",
+      "and",
+      "the",
+      "high",
+      "mechanical",
+      "strength,",
+      "corrosion",
+      "and",
+      "creep",
+      "resistance",
+      "of",
+      "the",
+      "stainless",
+      "steel."
+    ],
+    "entities": [
+      {
+        "id": 0,
+        "start": 68,
+        "end": 73,
+        "type": "MATERIAL",
+        "text": "aluminium bronze-stainless steel 1:1 alloy"
+      },
+      {
+        "id": 1,
+        "start": 58,
+        "end": 61,
+        "type": "PROPERTY",
+        "text": "tensile mechanical strength"
+      },
+      {
+        "id": 2,
+        "start": 75,
+        "end": 76,
+        "type": "VALUE",
+        "text": "876.4"
+      },
+      {
+        "id": 3,
+        "start": 76,
+        "end": 77,
+        "type": "UNIT",
+        "text": "MPa"
+      },
+      {
+        "id": 4,
+        "start": 80,
+        "end": 82,
+        "type": "PROPERTY",
+        "text": "elasticity modulus"
+      },
+      {
+        "id": 5,
+        "start": 82,
+        "end": 83,
+        "type": "VALUE",
+        "text": "(11.2"
+      },
+      {
+        "id": 6,
+        "start": 83,
+        "end": 84,
+        "type": "UNIT",
+        "text": "GPa)"
+      },
+      {
+        "id": 7,
+        "start": 8,
+        "end": 12,
+        "type": "PROPERTY",
+        "text": "linear thermal expansion coefficient"
+      },
+      {
+        "id": 8,
+        "start": 85,
+        "end": 86,
+        "type": "VALUE",
+        "text": "1.684"
+      },
+      {
+        "id": 9,
+        "start": 86,
+        "end": 87,
+        "type": "UNIT",
+        "text": "1/K"
+      },
+      {
+        "id": 10,
+        "start": 156,
+        "end": 170,
+        "type": "PROCESS",
+        "text": "additive manufacturing (AM) technologies via the gradient path method and the alternating layers technique,"
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 31,
+        "type": "MATERIAL",
+        "text": "Cu-Fe alloys,"
+      },
+      {
+        "id": 12,
+        "start": 103,
+        "end": 107,
+        "type": "MATERIAL",
+        "text": "chromium bronze and SS,"
+      },
+      {
+        "id": 13,
+        "start": 110,
+        "end": 111,
+        "type": "VALUE",
+        "text": "294.0-463.3"
+      },
+      {
+        "id": 14,
+        "start": 111,
+        "end": 112,
+        "type": "UNIT",
+        "text": "MPa"
+      },
+      {
+        "id": 15,
+        "start": 112,
+        "end": 114,
+        "type": "PROPERTY",
+        "text": "ultimate stress,"
+      },
+      {
+        "id": 16,
+        "start": 117,
+        "end": 119,
+        "type": "PROPERTY",
+        "text": "elasticity modulus"
+      },
+      {
+        "id": 17,
+        "start": 121,
+        "end": 122,
+        "type": "VALUE",
+        "text": "42.4"
+      },
+      {
+        "id": 18,
+        "start": 122,
+        "end": 123,
+        "type": "UNIT",
+        "text": "GPa)"
+      },
+      {
+        "id": 19,
+        "start": 127,
+        "end": 128,
+        "type": "PROPERTY",
+        "text": "LTEC"
+      },
+      {
+        "id": 20,
+        "start": 130,
+        "end": 131,
+        "type": "VALUE",
+        "text": "1.878"
+      },
+      {
+        "id": 21,
+        "start": 131,
+        "end": 132,
+        "type": "UNIT",
+        "text": "1/K)."
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "tail": 1,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 1,
+        "tail": 2,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 2,
+        "tail": 3,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 0,
+        "tail": 4,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 4,
+        "tail": 5,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 5,
+        "tail": 6,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 0,
+        "tail": 7,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 7,
+        "tail": 8,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 8,
+        "tail": 9,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 11,
+        "tail": 10,
+        "type": "SYNTHESIZED_USING_PROCESS"
+      },
+      {
+        "head": 12,
+        "tail": 15,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 15,
+        "tail": 13,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 13,
+        "tail": 14,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 12,
+        "tail": 16,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 16,
+        "tail": 17,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 17,
+        "tail": 18,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 12,
+        "tail": 19,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 19,
+        "tail": 20,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 20,
+        "tail": 21,
+        "type": "HAS_UNIT"
+      }
+    ],
+    "abstract": "This paper is devoted to experimental characterisation of linear thermal expansion coefficient (LTEC) and mechanical characteristics of the laser deposited Cu-Fe system multilayer functionally graded (FG) structures and binary Cu-Fe alloys, fabricated from the tin, aluminium, and chromium bronze with 89-99 wt.% of copper and stainless steel (SS) AISI 316L with 1:1 and 3:1 bronze-to-steel ratio. The best tensile mechanical strength of as-built parts is demonstrated by the aluminium bronze-stainless steel 1:1 alloy and reaches 876.4 MPa along with low elasticity modulus (11.2 GPa) and 1.684 1/K LTEC. Contrarily, the worst values of the mechanical characteristics are exhibited by parts created from the chromium bronze and SS, which failed at 294.0-463.3 MPa ultimate stress, showed the highest elasticity modulus (up to 42.4 GPa) and comparatively high average LTEC (up to 1.878 1/K). The aluminium bronze-stainless steel binary and FG alloys are discussed in the light of prospective application as the part of gradient materials, created by additive manufacturing (AM) technologies via the gradient path method and the alternating layers technique, with expected possibility of application in aerospace, nuclear, and electronic industry due to advantageous combination of the antifrictionality, heat conductivity, and oxidation resistance of the bronze, and the high mechanical strength, corrosion and creep resistance of the stainless steel."
+  },
+  {
+    "tokens": [
+      "New",
+      "approaches",
+      "for",
+      "the",
+      "design",
+      "of",
+      "alloy",
+      "systems",
+      "with",
+      "multiprincipal",
+      "elements",
+      "is",
+      "recently",
+      "researched",
+      "in",
+      "refractory",
+      "materials",
+      "field.",
+      "However,",
+      "most",
+      "research",
+      "aimed",
+      "at",
+      "arc",
+      "melting",
+      "process",
+      "with",
+      "weakness",
+      "of",
+      "coarsening",
+      "of",
+      "grains",
+      "and",
+      "inhomogeneous",
+      "microstructure",
+      "of",
+      "segregation",
+      "of",
+      "elements",
+      "during",
+      "the",
+      "cooling.",
+      "This",
+      "study",
+      "aims",
+      "to",
+      "design",
+      "and",
+      "fabricate",
+      "high-entropy",
+      "alloy",
+      "with",
+      "powder",
+      "metallurgy.",
+      "In",
+      "this",
+      "study,",
+      "a",
+      "refractory",
+      "high",
+      "entropy",
+      "alloys",
+      "with",
+      "composition",
+      "near",
+      "AlMo0.5NbTa0.5TiZr",
+      "were",
+      "produced",
+      "by",
+      "powder",
+      "metallurgy.",
+      "The",
+      "alloy",
+      "consists",
+      "of",
+      "two",
+      "body-centered",
+      "cubic",
+      "(BCC)",
+      "phases.",
+      "One",
+      "phase",
+      "was",
+      "disordered",
+      "BCC",
+      "enriched",
+      "with",
+      "Mo,",
+      "Nb",
+      "and",
+      "Ta",
+      "and",
+      "the",
+      "other",
+      "phase",
+      "was",
+      "ordered",
+      "BCC",
+      "enriched",
+      "with",
+      "Al",
+      "and",
+      "Zr.",
+      "The",
+      "AlMo0.5NbTa0.5TiZr",
+      "alloy",
+      "had",
+      "a",
+      "density",
+      "of",
+      "7.46g/cm3",
+      "and",
+      "Vickers",
+      "microhardness",
+      "of",
+      "678HV.",
+      "Its",
+      "compressive",
+      "yield",
+      "strength",
+      "was",
+      "2466MPa",
+      "at",
+      "298K",
+      "and",
+      "964MPa",
+      "at",
+      "1273K.",
+      "The",
+      "properties",
+      "of",
+      "the",
+      "alloy",
+      "and",
+      "the",
+      "beneficial",
+      "effects",
+      "from",
+      "powder",
+      "metallurgy",
+      "on",
+      "the",
+      "microstructure",
+      "and",
+      "properties",
+      "were",
+      "outlined."
+    ],
+    "entities": [
+      {
+        "id": 0,
+        "start": 65,
+        "end": 66,
+        "type": "MATERIAL",
+        "text": "AlMo0.5NbTa0.5TiZr"
+      },
+      {
+        "id": 1,
+        "start": 69,
+        "end": 71,
+        "type": "PROCESS",
+        "text": "powder metallurgy."
+      },
+      {
+        "id": 2,
+        "start": 75,
+        "end": 80,
+        "type": "STRUCTURE",
+        "text": "two body-centered cubic (BCC) phases."
+      },
+      {
+        "id": 3,
+        "start": 83,
+        "end": 91,
+        "type": "PHASE",
+        "text": "disordered BCC enriched with Mo, Nb and Ta"
+      },
+      {
+        "id": 4,
+        "start": 96,
+        "end": 104,
+        "type": "PHASE",
+        "text": "ordered BCC enriched with Al and Zr."
+      },
+      {
+        "id": 5,
+        "start": 108,
+        "end": 109,
+        "type": "PROPERTY",
+        "text": "density"
+      },
+      {
+        "id": 6,
+        "start": 110,
+        "end": 111,
+        "type": "VALUE",
+        "text": "7.46g/cm3"
+      },
+      {
+        "id": 7,
+        "start": 112,
+        "end": 114,
+        "type": "PROPERTY",
+        "text": "Vickers microhardness"
+      },
+      {
+        "id": 8,
+        "start": 115,
+        "end": 116,
+        "type": "VALUE",
+        "text": "678HV."
+      },
+      {
+        "id": 9,
+        "start": 117,
+        "end": 120,
+        "type": "PROPERTY",
+        "text": "compressive yield strength"
+      },
+      {
+        "id": 10,
+        "start": 121,
+        "end": 122,
+        "type": "VALUE",
+        "text": "2466MPa"
+      },
+      {
+        "id": 11,
+        "start": 123,
+        "end": 124,
+        "type": "VALUE",
+        "text": "298K"
+      },
+      {
+        "id": 12,
+        "start": 125,
+        "end": 126,
+        "type": "VALUE",
+        "text": "964MPa"
+      },
+      {
+        "id": 13,
+        "start": 127,
+        "end": 128,
+        "type": "VALUE",
+        "text": "1273K."
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "tail": 1,
+        "type": "SYNTHESIZED_USING_PROCESS"
+      },
+      {
+        "head": 0,
+        "tail": 2,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 2,
+        "tail": 3,
+        "type": "HAS_PHASE"
+      },
+      {
+        "head": 2,
+        "tail": 4,
+        "type": "HAS_PHASE"
+      },
+      {
+        "head": 0,
+        "tail": 5,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 5,
+        "tail": 6,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 0,
+        "tail": 7,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 7,
+        "tail": 8,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 0,
+        "tail": 9,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 9,
+        "tail": 10,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 10,
+        "tail": 11,
+        "type": "OBSERVED_AT"
+      },
+      {
+        "head": 9,
+        "tail": 12,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 12,
+        "tail": 13,
+        "type": "OBSERVED_AT"
+      }
+    ],
+    "abstract": "New approaches for the design of alloy systems with multiprincipal elements is recently researched in refractory materials field. However, most research aimed at arc melting process with weakness of coarsening of grains and inhomogeneous microstructure of segregation of elements during the cooling. This study aims to design and fabricate high-entropy alloy with powder metallurgy. In this study, a refractory high entropy alloys with composition near AlMo0.5NbTa0.5TiZr were produced by powder metallurgy. The alloy consists of two body-centered cubic (BCC) phases. One phase was disordered BCC enriched with Mo, Nb and Ta and the other phase was ordered BCC enriched with Al and Zr. The AlMo0.5NbTa0.5TiZr alloy had a density of 7.46g/cm3 and Vickers microhardness of 678HV. Its compressive yield strength was 2466MPa at 298K and 964MPa at 1273K. The properties of the alloy and the beneficial effects from powder metallurgy on the microstructure and properties were outlined."
+  },
+  {
+    "tokens": [
+      "$BaWO_{4}$,",
+      "$Ce_{2/3}\\square_{1/3}WO_{4}$",
+      "and",
+      "$La_{2/3}\\square_{1/3}WO_{4}$",
+      "polycrystalline",
+      "ceramics",
+      "were",
+      "synthesized",
+      "by",
+      "conventional",
+      "solid-state",
+      "reaction",
+      "route.",
+      "The",
+      "effect",
+      "of",
+      "cation-deficiency",
+      "on",
+      "the",
+      "crystallographic",
+      "structure,",
+      "microstructure",
+      "and",
+      "thermal",
+      "properties",
+      "of",
+      "these",
+      "scheelite-type",
+      "compounds",
+      "were",
+      "investigated.",
+      "X-ray",
+      "diffraction",
+      "was",
+      "used",
+      "to",
+      "identify",
+      "the",
+      "single-phase",
+      "scheelite",
+      "structure",
+      "of",
+      "the",
+      "studied",
+      "ceramics.",
+      "Scanning",
+      "Electron",
+      "Microscopy",
+      "technique",
+      "has",
+      "revealed",
+      "a",
+      "homogenous",
+      "and",
+      "dense",
+      "microstructure",
+      "with",
+      "a",
+      "few",
+      "micro-cracks.",
+      "The",
+      "thermal",
+      "conductivity",
+      "of",
+      "$BaWO_{4}$",
+      "scheelite",
+      "decreases",
+      "from",
+      "$1.3\\pm0.2$",
+      "to",
+      "$1.0\\pm0.1",
+      "W",
+      "m^{-1}",
+      "K^{-1}$",
+      "in",
+      "the",
+      "range",
+      "373",
+      "K",
+      "-",
+      "673",
+      "K.",
+      "The",
+      "cation-deficient",
+      "scheelites",
+      "$Ce_{2/3}\\square_{1/3}WO_{4}$",
+      "and",
+      "$La_{2/3}\\square_{1/3}WO_{4}$",
+      "ceramics",
+      "display",
+      "an",
+      "ultra-low",
+      "thermal",
+      "conductivity",
+      "of",
+      "$0.3\\pm0.04",
+      "W",
+      "m^{-1}",
+      "K^{-1}$",
+      "and",
+      "$0.2\\pm0.03",
+      "W",
+      "m^{-1}",
+      "K^{-1}$",
+      "at",
+      "673",
+      "K,",
+      "respectively.",
+      "These",
+      "materials",
+      "exhibit",
+      "among",
+      "the",
+      "lowest",
+      "known",
+      "values",
+      "of",
+      "thermal",
+      "conductivity",
+      "in",
+      "crystalline",
+      "oxides,",
+      "in",
+      "this",
+      "temperature",
+      "range.",
+      "Therefore,",
+      "they",
+      "appear",
+      "as",
+      "very",
+      "attractive",
+      "for",
+      "thermal",
+      "barrier",
+      "coating",
+      "and",
+      "thermoelectric",
+      "applications."
+    ],
+    "entities": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "type": "MATERIAL",
+        "text": "$BaWO_{4}$,"
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "type": "MATERIAL",
+        "text": "$Ce_{2/3}\\square_{1/3}WO_{4}$"
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 4,
+        "type": "MATERIAL",
+        "text": "$La_{2/3}\\square_{1/3}WO_{4}$"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 13,
+        "type": "PROCESS",
+        "text": "conventional solid-state reaction route."
+      },
+      {
+        "id": 4,
+        "start": 31,
+        "end": 33,
+        "type": "PROCESS",
+        "text": "X-ray diffraction"
+      },
+      {
+        "id": 5,
+        "start": 38,
+        "end": 41,
+        "type": "STRUCTURE",
+        "text": "single-phase scheelite structure"
+      },
+      {
+        "id": 6,
+        "start": 45,
+        "end": 49,
+        "type": "PROCESS",
+        "text": "Scanning Electron Microscopy technique"
+      },
+      {
+        "id": 7,
+        "start": 52,
+        "end": 60,
+        "type": "STRUCTURE",
+        "text": "homogenous and dense microstructure with a few micro-cracks."
+      },
+      {
+        "id": 8,
+        "start": 61,
+        "end": 63,
+        "type": "PROPERTY",
+        "text": "thermal conductivity"
+      },
+      {
+        "id": 9,
+        "start": 66,
+        "end": 71,
+        "type": "VALUE",
+        "text": "decreases from $1.3\\pm0.2$ to $1.0\\pm0.1"
+      },
+      {
+        "id": 10,
+        "start": 71,
+        "end": 74,
+        "type": "UNIT",
+        "text": "W m^{-1} K^{-1}$"
+      },
+      {
+        "id": 11,
+        "start": 77,
+        "end": 78,
+        "type": "VALUE",
+        "text": "373 K - 673 K."
+      },
+      {
+        "id": 12,
+        "start": 92,
+        "end": 94,
+        "type": "PROPERTY",
+        "text": "thermal conductivity"
+      },
+      {
+        "id": 13,
+        "start": 92,
+        "end": 94,
+        "type": "PROPERTY",
+        "text": "thermal conductivity"
+      },
+      {
+        "id": 14,
+        "start": 95,
+        "end": 96,
+        "type": "VALUE",
+        "text": "$0.3\\pm0.04"
+      },
+      {
+        "id": 15,
+        "start": 96,
+        "end": 99,
+        "type": "UNIT",
+        "text": "W m^{-1} K^{-1}$"
+      },
+      {
+        "id": 16,
+        "start": 100,
+        "end": 101,
+        "type": "VALUE",
+        "text": "$0.2\\pm0.03"
+      },
+      {
+        "id": 17,
+        "start": 101,
+        "end": 104,
+        "type": "UNIT",
+        "text": "W m^{-1} K^{-1}$"
+      },
+      {
+        "id": 18,
+        "start": 105,
+        "end": 106,
+        "type": "VALUE",
+        "text": "673"
+      },
+      {
+        "id": 19,
+        "start": 106,
+        "end": 107,
+        "type": "UNIT",
+        "text": "K,"
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "tail": 3,
+        "type": "SYNTHESIZED_USING_PROCESS"
+      },
+      {
+        "head": 1,
+        "tail": 3,
+        "type": "SYNTHESIZED_USING_PROCESS"
+      },
+      {
+        "head": 2,
+        "tail": 3,
+        "type": "SYNTHESIZED_USING_PROCESS"
+      },
+      {
+        "head": 0,
+        "tail": 5,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 1,
+        "tail": 5,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 2,
+        "tail": 5,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 5,
+        "tail": 4,
+        "type": "FOUND_USING_PROCESS"
+      },
+      {
+        "head": 0,
+        "tail": 7,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 1,
+        "tail": 7,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 2,
+        "tail": 7,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 7,
+        "tail": 6,
+        "type": "FOUND_USING_PROCESS"
+      },
+      {
+        "head": 0,
+        "tail": 8,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 8,
+        "tail": 9,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 9,
+        "tail": 10,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 9,
+        "tail": 11,
+        "type": "OBSERVED_AT"
+      },
+      {
+        "head": 1,
+        "tail": 12,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 2,
+        "tail": 13,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 12,
+        "tail": 14,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 14,
+        "tail": 15,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 13,
+        "tail": 16,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 16,
+        "tail": 17,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 14,
+        "tail": 18,
+        "type": "OBSERVED_AT"
+      },
+      {
+        "head": 16,
+        "tail": 18,
+        "type": "OBSERVED_AT"
+      },
+      {
+        "head": 18,
+        "tail": 19,
+        "type": "HAS_UNIT"
+      }
+    ],
+    "abstract": "$BaWO_{4}$, $Ce_{2/3}\\square_{1/3}WO_{4}$ and $La_{2/3}\\square_{1/3}WO_{4}$ polycrystalline ceramics were synthesized by conventional solid-state reaction route. The effect of cation-deficiency on the crystallographic structure, microstructure and thermal properties of these scheelite-type compounds were investigated. X-ray diffraction was used to identify the single-phase scheelite structure of the studied ceramics. Scanning Electron Microscopy technique has revealed a homogenous and dense microstructure with a few micro-cracks. The thermal conductivity of $BaWO_{4}$ scheelite decreases from $1.3\\pm0.2$ to $1.0\\pm0.1 W m^{-1} K^{-1}$ in the range 373 K - 673 K. The cation-deficient scheelites $Ce_{2/3}\\square_{1/3}WO_{4}$ and $La_{2/3}\\square_{1/3}WO_{4}$ ceramics display an ultra-low thermal conductivity of $0.3\\pm0.04 W m^{-1} K^{-1}$ and $0.2\\pm0.03 W m^{-1} K^{-1}$ at 673 K, respectively. These materials exhibit among the lowest known values of thermal conductivity in crystalline oxides, in this temperature range. Therefore, they appear as very attractive for thermal barrier coating and thermoelectric applications."
+  },
+  {
+    "tokens": [
+      "Refractory",
+      "high-entropy",
+      "alloys,",
+      "RHEAs,",
+      "are",
+      "promising",
+      "high-temperature",
+      "structural",
+      "materials.",
+      "Their",
+      "large",
+      "compositional",
+      "space",
+      "poses",
+      "great",
+      "design",
+      "challenges",
+      "for",
+      "phase",
+      "control",
+      "and",
+      "high",
+      "strength-ductility",
+      "synergy.",
+      "The",
+      "present",
+      "research",
+      "pioneers",
+      "using",
+      "integrated",
+      "high-throughput",
+      "machine",
+      "learning",
+      "with",
+      "Monte",
+      "Carlo",
+      "simulations",
+      "to",
+      "effectively",
+      "navigate",
+      "phase-selection",
+      "and",
+      "mechanical-properties",
+      "predictions,",
+      "developing",
+      "aluminum-containing",
+      "RHEAs",
+      "in",
+      "single-phase",
+      "ordered",
+      "B2",
+      "alloys",
+      "demonstrating",
+      "both",
+      "high",
+      "strength",
+      "and",
+      "ductility.",
+      "These",
+      "aluminum-containing",
+      "RHEAs",
+      "achieve",
+      "remarkable",
+      "mechanical",
+      "properties,",
+      "including",
+      "compressive",
+      "yield",
+      "strengths",
+      "up",
+      "to",
+      "1.6",
+      "GPa,",
+      "fracture",
+      "strains",
+      "exceeding",
+      "50",
+      "percent,",
+      "and",
+      "significant",
+      "high-temperature",
+      "strength",
+      "retention.",
+      "They",
+      "also",
+      "demonstrate",
+      "a",
+      "tensile",
+      "yield",
+      "strength",
+      "of",
+      "1.1",
+      "GPa",
+      "with",
+      "a",
+      "tension",
+      "ductility",
+      "of",
+      "6.3",
+      "percent.",
+      "Besides,",
+      "we",
+      "identify",
+      "a",
+      "valence-electron-count",
+      "domain",
+      "for",
+      "alloy",
+      "brittleness",
+      "with",
+      "the",
+      "explanation",
+      "from",
+      "density-functional",
+      "theory",
+      "and",
+      "provide",
+      "crucial",
+      "insights",
+      "into",
+      "elements'",
+      "influence",
+      "on",
+      "atomic",
+      "ordering",
+      "and",
+      "mechanical",
+      "performance.",
+      "The",
+      "work",
+      "sets",
+      "forth",
+      "a",
+      "strategic",
+      "blueprint",
+      "for",
+      "high-throughput",
+      "alloy",
+      "design",
+      "and",
+      "reveals",
+      "fundamental",
+      "principles",
+      "that",
+      "govern",
+      "the",
+      "mechanical",
+      "properties",
+      "of",
+      "advanced",
+      "structural",
+      "alloys."
+    ],
+    "entities": [
+      {
+        "id": 0,
+        "start": 45,
+        "end": 47,
+        "type": "MATERIAL",
+        "text": "aluminum-containing RHEAs"
+      },
+      {
+        "id": 1,
+        "start": 48,
+        "end": 51,
+        "type": "STRUCTURE",
+        "text": "single-phase ordered B2"
+      },
+      {
+        "id": 2,
+        "start": 66,
+        "end": 69,
+        "type": "PROPERTY",
+        "text": "compressive yield strengths"
+      },
+      {
+        "id": 3,
+        "start": 71,
+        "end": 72,
+        "type": "VALUE",
+        "text": "1.6"
+      },
+      {
+        "id": 4,
+        "start": 72,
+        "end": 73,
+        "type": "UNIT",
+        "text": "GPa,"
+      },
+      {
+        "id": 5,
+        "start": 73,
+        "end": 75,
+        "type": "PROPERTY",
+        "text": "fracture strains"
+      },
+      {
+        "id": 6,
+        "start": 76,
+        "end": 78,
+        "type": "VALUE",
+        "text": "50 percent,"
+      },
+      {
+        "id": 7,
+        "start": 87,
+        "end": 90,
+        "type": "PROPERTY",
+        "text": "tensile yield strength"
+      },
+      {
+        "id": 8,
+        "start": 91,
+        "end": 92,
+        "type": "VALUE",
+        "text": "1.1"
+      },
+      {
+        "id": 9,
+        "start": 92,
+        "end": 93,
+        "type": "UNIT",
+        "text": "GPa"
+      },
+      {
+        "id": 10,
+        "start": 95,
+        "end": 97,
+        "type": "PROPERTY",
+        "text": "tension ductility"
+      },
+      {
+        "id": 11,
+        "start": 98,
+        "end": 100,
+        "type": "VALUE",
+        "text": "6.3 percent."
+      }
+    ],
+    "relations": [
+      {
+        "head": 0,
+        "tail": 1,
+        "type": "HAS_STRUCTURE"
+      },
+      {
+        "head": 0,
+        "tail": 2,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 2,
+        "tail": 3,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 3,
+        "tail": 4,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 0,
+        "tail": 5,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 5,
+        "tail": 6,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 0,
+        "tail": 7,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 7,
+        "tail": 8,
+        "type": "HAS_VALUE"
+      },
+      {
+        "head": 8,
+        "tail": 9,
+        "type": "HAS_UNIT"
+      },
+      {
+        "head": 0,
+        "tail": 10,
+        "type": "HAS_PROPERTY"
+      },
+      {
+        "head": 10,
+        "tail": 11,
+        "type": "HAS_VALUE"
+      }
+    ],
+    "abstract": "Refractory high-entropy alloys, RHEAs, are promising high-temperature structural materials. Their large compositional space poses great design challenges for phase control and high strength-ductility synergy. The present research pioneers using integrated high-throughput machine learning with Monte Carlo simulations to effectively navigate phase-selection and mechanical-properties predictions, developing aluminum-containing RHEAs in single-phase ordered B2 alloys demonstrating both high strength and ductility. These aluminum-containing RHEAs achieve remarkable mechanical properties, including compressive yield strengths up to 1.6 GPa, fracture strains exceeding 50 percent, and significant high-temperature strength retention. They also demonstrate a tensile yield strength of 1.1 GPa with a tension ductility of 6.3 percent. Besides, we identify a valence-electron-count domain for alloy brittleness with the explanation from density-functional theory and provide crucial insights into elements' influence on atomic ordering and mechanical performance. The work sets forth a strategic blueprint for high-throughput alloy design and reveals fundamental principles that govern the mechanical properties of advanced structural alloys."
+  }
+]
